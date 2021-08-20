@@ -13,7 +13,7 @@
 | GitHub        | https://github.com/Sloulama              |
 
 ## Brief description
-Graduate of the Polytechnic University who wants to develop towards front-end development. In the future, I want get employed at EPAM.
+Graduate of the Polytechnic University who wants to develop towards front-end development. I am currently working as a computer teacher in a secondary school.
 
 ## Higher Education
 
